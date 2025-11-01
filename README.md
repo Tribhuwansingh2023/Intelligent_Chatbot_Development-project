@@ -1,6 +1,6 @@
 # 🤖 Intelligent Chatbot Development
 ## 🔍 Project Description
-**
+
 I built a chatbot using transformer models trained on datasets like **Cornell Movie Dialogs** and **Reddit chats**.  
 It understands and replies like a human by learning context through **self-attention mechanisms**.  
 I fine-tuned it to give **relevant**, **consistent**, and **tone-controlled** responses using methods like **beam search** and **sampling**.**
